@@ -1,3 +1,3 @@
 # #Personal summary
 
-"Skilled Data Engineer with over 5 years of experience designing and maintaining scalable ETL pipelines and data solutions. Proficient in SQL Server, data integration, and performance optimization. A strong collaborator with a proven ability to translate business needs into efficient data workflows. Committed to continuous improvement and delivering high-quality results in fast-paced environments."
+"Experienced Data Professional with over 5 years across data engineering and analytics, specializing in SQL, Power BI, and ETL development. Skilled at translating business needs into actionable insights and collaborating with stakeholders to drive data-informed decisions. Brings a strong background in healthcare and financial services, eager to apply technical expertise in a dedicated data engineer or analyst role."
